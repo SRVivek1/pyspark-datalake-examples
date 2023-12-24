@@ -1,6 +1,8 @@
-# ignore project files
+# workspace
+.idea/
 .secrets
-*.idea/
+*.secrets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
