@@ -1,0 +1,3 @@
+AWS_S3:
+  DATA_BUCKET: vsingh-spark-apps-write-data
+  FILE_LOCATION: delta-lake/schema-mismatch
