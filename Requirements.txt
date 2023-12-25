@@ -1,0 +1,14 @@
+########## Project dependency requirement ##############
+
+#### Spark Dependencies #######
+pyspark~=3.5.0
+pyspark-stubs
+
+## delta lake support
+delta-spark
+delta
+
+#### Yaml & Java Object Access library #######
+py4j
+#yaml
+PyYAML~=6.0.1

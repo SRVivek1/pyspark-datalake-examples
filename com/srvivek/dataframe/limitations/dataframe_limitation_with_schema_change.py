@@ -93,7 +93,11 @@ if __name__ == '__main__':
 #
 # command
 # --------------
-# Environment : AWS EMR, S3
+# spark-submit --packages "org.apache.hadoop:hadoop-aws:2.7.4" --master yarn ./program.py
+#
+# Environment :
+#   --> DataBricks Community server,
+#   --> AWS S3
 #
 # Output
 # -------------
